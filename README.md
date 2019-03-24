@@ -27,3 +27,4 @@ Step 4  - Add "checkstyle" to parallel pipeline
 	- Add git repo in source code management https://github.com/jleetutorial/maven-project.git
 	- Add build action "invoke to level maven" with "checkstyle:checkstyle"
 	- Go to other project which will trigger this project add the post build action to trigger this project
+
