@@ -47,7 +47,7 @@ lxc_practice_ubuntu() {
 
 git_practice_ubuntu() {
 						apt-get install git
-						cd /app/docker && git clone https://github.com/amitbarai/docker-test-env.git
+						cd /app/docker && git clone https://github.com/sakheek/docker-test-env.git
 						}
 		
 case $myos in 
